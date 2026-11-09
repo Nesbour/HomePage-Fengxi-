@@ -2,6 +2,8 @@
 
 一个以蓝紫色为主色调的个人主页，采用原生 HTML、CSS 和 JavaScript 编写，无需安装依赖或构建工具。
 
+演示站：https://fengxinzi.kdns.fr
+
 ## 功能特点
 
 - 响应式布局：适配桌面端与手机端
